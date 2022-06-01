@@ -8,7 +8,7 @@ wifi password
 ----------------
 
 ```bash
-  repo sync -c -j$(nproc --al
+  12345677
 ```
 
 
