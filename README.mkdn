@@ -4,7 +4,7 @@ By Surendra Sonawane
 
 
   
-To Sync the source:
+wifi password 
 ----------------
 
 ```bash
