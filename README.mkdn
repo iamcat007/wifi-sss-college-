@@ -12,10 +12,9 @@ wifi password
 ```
 
 
-wifi password 
-
-----------------
-
-
 Location 
+----------------
 https://maps.app.goo.gl/xkJrA2kBhhHL7Vin6
+
+ 
+
