@@ -2,10 +2,12 @@ By Surendra Sonawane
 ===========
 
 
-wifi password 
-
+wifi Name 
 ----------------
-  
+  ```bash
+shetkari_college 
+```
+
 wifi password 
 ----------------
 
