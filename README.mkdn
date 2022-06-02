@@ -13,7 +13,7 @@ wifi password
 
 
 ```bash
-  12345677
+  shetkari3301@$90
 ```
 
 
