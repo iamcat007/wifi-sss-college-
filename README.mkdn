@@ -5,7 +5,7 @@ By Surendra Sonawane
 wifi Name 
 ----------------
   ```bash
-shetkari_college 
+ssscollage 
 ```
 
 wifi password 
