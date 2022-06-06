@@ -13,7 +13,7 @@ wifi password
 
 
 ```bash
-  commerce@21
+commerce@21
 ```
 
 
